@@ -68,7 +68,7 @@
 
 ---
 
-### 🧩 LeetCode Stats
+### 🧩 Leetcode Stats
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/madhumidha_1719?theme=dark&font=baloo&ext=heatmap" alt="madhumidha_1719 LeetCode stats" />
