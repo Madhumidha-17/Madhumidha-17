@@ -134,4 +134,5 @@ Check out my full project list, write-ups and live demos there!
   </a>
 </p>
 
-<p align="center">⭐️ Thanks for stopping by — always open to collaborating on interesting projects!</p>
+<p align="center">⭐️ Thanks for stopping by — always open to collaborating on interesting projects
+  !</p>
